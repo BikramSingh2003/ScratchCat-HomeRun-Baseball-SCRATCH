@@ -1,2 +1,3 @@
 # ScratchCat-HomeRun-Baseball-SCRATCH
-This project features the default Scratch Cat sprite completing a home run on a baseball field after the pitcher has thrown the ball at it. 
+This is my first project using SCRATCH, looking forward to improving it in the future! Feel free to make your own changes to the code and share. 
+My username on SCRATCH is "Khemy1" 
